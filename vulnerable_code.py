@@ -1,5 +1,3 @@
-
-
 temp = 1
 
 
@@ -11,3 +9,6 @@ def foo():
 def bar():
     assert temp == 1
 
+
+foo()
+bar()
